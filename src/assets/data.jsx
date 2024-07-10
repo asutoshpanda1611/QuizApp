@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Kon mera roomate kabhi nahi bana?",
+    option1: "Aryan Singh Rajwat",
+    option2: "Anmol Singh",
+    option3: "Ritik Raj",
+    option4: "Rachit Kumar",
+    ans: 3,
+  },
+  {
+    question: "Aryan mere liye ghar se kya leke aata hai?",
+    option1: "Besan ke ladoo",
+    option2: "Bourbon Biscuit",
+    option3: "Moong dal namkeen",
+    option4: "Jim-Jam Biscuit",
+    ans: 1,
+  },
+  {
+    question: "Hum use Pyaar se bunty boy bulate hai?",
+    option1: "Milan",
+    option2: "Anmol",
+    option3: "Laxya",
+    option4: "Pranav",
+    ans: 2,
+  },
+  {
+    question: "Hamari Branch konsi Aakriti har saal jeeti hai?",
+    option1: "Technical Aakriti",
+    option2: "Sports Aakriti",
+    option3: "Cultural Aakriti",
+    option4: "Overall Aakriti",
+    ans: 3,
+  },
+  {
+    question: "Me konse College me Padhta hu?",
+    option1: "NIT Rourkela",
+    option2: "AIT Pune",
+    option3: "IIT Bhubaneshwar",
+    option4: "JEC College",
+    ans: 2,
+  },
+];
